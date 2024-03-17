@@ -136,11 +136,11 @@ i:hover {
         padding: 1.5rem 2.25rem;
     }
 
-    .wrapper {
+    .header-wrapper {
         max-width: 40%;
     }
 
-    .wrapper > svg {
+    .header-wrapper > img {
         max-width: 100%;
     }
 
